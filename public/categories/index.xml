@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on What&#39;s on your mind</title>
-    <link>https://neuro.qadlab.space/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on What&#39;s on your mind</description>
-    <image>
-      <title>What&#39;s on your mind</title>
-      <url>https://neuro.qadlab.space/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://neuro.qadlab.space/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
-    <atom:link href="https://neuro.qadlab.space/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Article</title>
-      <link>https://neuro.qadlab.space/categories/article/</link>
+      <link>http://localhost:1313/categories/article/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://neuro.qadlab.space/categories/article/</guid>
+      <guid>http://localhost:1313/categories/article/</guid>
       <description></description>
     </item>
   </channel>
