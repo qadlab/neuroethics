@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com/"
-title: Neuroethics notebook
+baseURL: "https://neuro.qadlab.space/"
+title: What's on your mind
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -13,10 +13,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  title: What's on your mind 
+  description: "What's on your mind @ qadlab"
+  keywords: [Blog]
+  author: AMA
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -42,14 +42,14 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "https://static-00.iconduck.com/assets.00/brain-emoji-1024x798-spi2i3dv.png"
+    favicon16x16: "https://static-00.iconduck.com/assets.00/brain-emoji-1024x798-spi2i3dv.png"
+    favicon32x32: "https://static-00.iconduck.com/assets.00/brain-emoji-1024x798-spi2i3dv.png"
+    apple_touch_icon: "https://static-00.iconduck.com/assets.00/brain-emoji-1024x798-spi2i3dv.png"
+    safari_pinned_tab: "https://static-00.iconduck.com/assets.00/brain-emoji-1024x798-spi2i3dv.png"
 
   label:
-    text: "Neuroethics notebook"
+    text: Home
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -70,16 +70,12 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Neuroethics notebook 📓"
-    Content: Welcome to my blog
+    Title: "What's on your mind 🧠"
+    Content: Reflections on technology and neuroethics
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/antoine-maherault/"
 
   analytics:
     google:
