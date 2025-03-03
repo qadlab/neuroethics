@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Article on What&#39;s on your mind</title>
-    <link>http://localhost:1313/categories/article/</link>
+    <link>https://neuro.qadlab.space/categories/article/</link>
     <description>Recent content in Article on What&#39;s on your mind</description>
     <image>
       <title>What&#39;s on your mind</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://neuro.qadlab.space/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://neuro.qadlab.space/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/article/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://neuro.qadlab.space/categories/article/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Article 01</title>
-      <link>http://localhost:1313/posts/article_01/</link>
+      <link>https://neuro.qadlab.space/posts/article_01/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/article_01/</guid>
+      <guid>https://neuro.qadlab.space/posts/article_01/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
       <title>Article 02</title>
-      <link>http://localhost:1313/posts/article_02/</link>
+      <link>https://neuro.qadlab.space/posts/article_02/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/article_02/</guid>
+      <guid>https://neuro.qadlab.space/posts/article_02/</guid>
       <description>Desc Text.</description>
     </item>
   </channel>
