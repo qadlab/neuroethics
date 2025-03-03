@@ -1,9 +1,10 @@
 ---
-title: "My 1st post"
+title: "Article 02"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["first"]
+categories: ["article"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
