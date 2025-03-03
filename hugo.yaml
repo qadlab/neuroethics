@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://neuro.qadlab.space
 languageCode: en-us
-title: My New Hugo Site
+title: Neuroethics notebooks
 theme: ["PaperMod"]
